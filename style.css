@@ -25,20 +25,21 @@ h1{
     text-align: center;
     color: #0277BD;
     margin: 25px 0 20px 0;
-    font-family: 'Fredoka', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Fredoka';
 }
 
 h2{
     text-align: center;
     color: #0277BD;
-    font-family: 'Fredoka', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Fredoka'
     margin: 15px 0 10px 0;
 }
 
 p{
     color: #424242;
     text-indent: 25px;
-    font-family: 'Fredoka', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    padding: 0 20px;
+    font-family: 'Fredoka';
+    padding: 0 20px;
 }
 
 .mural{
